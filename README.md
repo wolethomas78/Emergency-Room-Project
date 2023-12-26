@@ -13,9 +13,9 @@ Analyze historical data to understand and optimize the flow of patients through 
 
 The Emergency Room Dashboard Data Analysis project aims to leverage data-driven insights to enhance the efficiency, resource allocation, and overall performance of an emergency room (ER) within a healthcare facility. By implementing a comprehensive dashboard, this project seeks to empower healthcare professionals, administrators, and decision-makers with real-time and historical data to make informed decisions, improve patient outcomes, and optimize the utilization of resources.
 
-
 ![ERP-PROJECT](https://github.com/wolethomas78/Emergency-Room-Project/assets/102493084/f5fca81c-a767-4184-ad01-5054451ab160)
 
+https://public.tableau.com/app/profile/oluwole.fagbemi2492/viz/ERVISITDASHBOARD_17030580880780/Dashboard1?publish=yes
 
 ### Data Source
 
